@@ -1,0 +1,11 @@
+*.ipynb
+*.out
+*.pyc
+*.npy
+**/__pycache__/
+logs/*
+wandb/
+slurm_out_files/
+pretrained_models/
+data/*
+.ipynb_checkpoints/
