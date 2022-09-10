@@ -78,6 +78,10 @@ License (Apache License 2.0) https://github.com/AntixK/PyTorch-VAE/blob/master/L
 If you use this code for your research, please cite our paper <a href="">Text-Free Learning of a Natural Language Interface for Pretrained Face Generators</a>:
 
 ```
-@InProceedings{
+@InProceedings{ Du_ARXIV_2022,
+  author = {Du, Xiaodan and Yeh, Raymond A. and Kolkin, Nicholas and Shechtman, Eli and Shakhnarovich, Greg},
+  title = {Text-Free Learning of a Natural Language Interface for Pretrained Face Generators},
+  journal={arXiv preprint arXiv:2209.03953,
+  year = {2022},
 }
 ```
